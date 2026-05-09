@@ -63,12 +63,10 @@ Mini-games like fishing, racing, and treasure hunting make the gameplay more exc
 ## Download Doraemon X APK
 
 ### Official Website
-https://yourwebsite.com
+https://doramonx.org/
 
 ### Download APK
-https://yourwebsite.com/doraemon-x-apk
-
----
+https://doramonx.org/doraemon-x-apk-3/
 
 ## Installation Guide
 
